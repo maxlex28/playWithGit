@@ -1,8 +1,7 @@
 # Aliaksandr Makhnavets
 ## **CONTACT**
 ### 36 Shirokaya st., 311   
-### Minsk                          
-### The Republic of Belarus
+### Minsk, Belarus
 ### E-mail: maxlex@ymail.com
 ### Phone: +375291181717
 ***
@@ -20,7 +19,7 @@ competitive market of film and video production, where consumer (client) traditi
 Ready to relocate to another country.
 ***
 ## **WORK EXPERIENCE**
-### "F Rental" LLC (leading rental house of film equipment in Belarus)
+### ["F Rental" LLC](https://www.facebook.com/firstrental.by) (leading rental house of film equipment in Belarus)
 ### *February 2017 — Present*
 ### **Deputy Director**
 Today our company is a rental house providing technical assistance for film production
@@ -65,5 +64,12 @@ company's needs;
 * **Russian** and **Belarusian** (native speaker)
 * **Ukrainian** (basic knowledge - decent for reading and listening comprehension)
 * **Polish** (basic knowledge - decent for reading and listening comprehension)
-
+### Other skills and qualities:
+* **MS Office** (*advanced*)
+* **Python** (*beginner*)
+* **JavaScript** (*beginner*)
+* **IFRS** (*basic*)
+* Communication, organisational and time management skills
+* Work in time pressure conditions
+* Courtesy and tolerance towards clients and the team
 
