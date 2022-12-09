@@ -35,7 +35,7 @@ budget and staff;
 - assistance in the control of overall economic performance;
 - leading management of short- and medium-term company activities on the market;
 - assistance in decision-making concerning long-term activities.
-### "F Rental" LLC
+### ["F Rental" LLC](https://www.facebook.com/firstrental.by)
 ### *August 2008 — January 2017*
 ### **Economist**
 #### **Scope of my responsibilities:**
@@ -68,7 +68,7 @@ company's needs;
 * **MS Office** (*advanced*)
 * **Python** (*beginner*)
 * **JavaScript** (*beginner*)
-* **IFRS** (*basic*)
+* [**IFRS**](https://en.wikipedia.org/wiki/International_Financial_Reporting_Standards) (*basic*)
 * Communication, organisational and time management skills
 * Work in time pressure conditions
 * Courtesy and tolerance towards clients and the team
