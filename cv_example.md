@@ -61,15 +61,16 @@ company's needs;
 - tracking of feedback on customers' satisfaction with the bank and acquired products.
 ***
 ## **EDUCATION**
-### State administration
 ### *September 2002 — June 2007*
+### Belarussian State Economic University
+### *State administration*
+**Obtained the Bachelor Degree in "State Administration" (qualification awarded: "Economist-manager").**
 
-
-
-
-
-
-
+Profound study in the field of quantitative evaluation of qualitative performance in the
+national economy and particular industries with developing factor models.
+Diploma on "Forecasting Car Transport Development in the Republic of Belarus and
+Ways of Enhancing It".
+***
 ## **QUALIFICATIONS**
 ### Languages
 * **English** (IELTS C1 level: advanced)
@@ -84,3 +85,10 @@ company's needs;
 * Communication, organisational and time management skills
 * Work in time pressure conditions
 * Courtesy and tolerance towards clients and the team
+* ***
+## **INTERESTS**
++ strong interest in data analysis (theory and practice);
++ music theory;
++ rock music;
++ cinematograhy (from artistic and technical aspects);
++ ping-pong
