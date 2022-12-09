@@ -60,6 +60,16 @@ company's needs;
 - preparation and conclusion of agreements;
 - tracking of feedback on customers' satisfaction with the bank and acquired products.
 ***
+## **EDUCATION**
+### State administration
+### *September 2002 — June 2007*
+
+
+
+
+
+
+
 ## **QUALIFICATIONS**
 ### Languages
 * **English** (IELTS C1 level: advanced)
@@ -74,4 +84,3 @@ company's needs;
 * Communication, organisational and time management skills
 * Work in time pressure conditions
 * Courtesy and tolerance towards clients and the team
-
