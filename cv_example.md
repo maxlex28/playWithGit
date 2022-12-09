@@ -1,8 +1,69 @@
 # Aliaksandr Makhnavets
-
-## CONTACT
-
-### E-mail:
-### Phone:
+## **CONTACT**
+### 36 Shirokaya st., 311   
+### Minsk                          
+### The Republic of Belarus
+### E-mail: maxlex@ymail.com
+### Phone: +375291181717
 ***
-## OBJECTIVE
+## **OBJECTIVE**
+Solid experience in management of technical assistance for filmmaking. Great interest
+in business analysis.
+I am seeking for a challenging job in management of the sphere of technical assistance
+for film- and video production and related areas. Being a beginner in Python 3.0
+programming with high ambitions to promote in this field (with application of knowledge
+and skills in the field of data analysis), I see any improvement being possible only with
+taking high bars set by yourself. I have significant experience in management of
+material resources and considerable competency in HR -management in a highly
+competitive market of film and video production, where consumer (client) traditionally
+*"calls the shots"*.
+Ready to relocate to another country.
+***
+## **WORK EXPERIENCE**
+### "F Rental" LLC (leading rental house of film equipment in Belarus)
+### *February 2017 — Present*
+### **Deputy Director**
+Today our company is a rental house providing technical assistance for film production
+companies, including companies whose product is a part of world-famous TV-streaming
+services.
+#### **Scope of my responsibilities:**
+- overall management of projects (planning and allocation of material an human
+resources);
+- direct communication with line and executive producers and other executives on
+budget and staff;
+- control of the process of management accounting in the company;
+- participation in long-term investment planning and new projects development;
+- assistance in the control of overall economic performance;
+- leading management of short- and medium-term company activities on the market;
+- assistance in decision-making concerning long-term activities.
+### "F Rental" LLC
+### *August 2008 — January 2017*
+### **Economist**
+#### **Scope of my responsibilities:**
+- management of projects (planning and allocation of material an human resources);
+- direct communication with line and executive producers and other executives on
+budget and staff;
+- direct communication with directors of photography, cameramen and other client's
+chief technical executives on overall technical issues;
+- collection and analysis of inside information of the company's operation, systematization in the form of financial reports, developed according to the
+company's needs;
+- forecasting of revenue, expenses and profits;
+- participation in long-term decision-making;
+- development of price calculation system, appropriate for the company.
+### "Delta Bank" CJSC
+### *January 2008 — August 2008*
+### **Loan agent**
+#### **Scope of my responsibilities:**
+- consulting on loan options;
+- sales of financial products (loans, insurance);
+- preparation and conclusion of agreements;
+- tracking of feedback on customers' satisfaction with the bank and acquired products.
+***
+## **QUALIFICATIONS**
+### Languages
+* **English** (IELTS C1 level. Advanced level)
+* **Russian** and **Belarusian** (native speaker)
+* **Ukrainian** (basic knowledge - decent for reading and listening comprehension)
+* **Polish** (basic knowledge - decent for reading and listening comprehension)
+
+
