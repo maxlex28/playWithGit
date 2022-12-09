@@ -68,8 +68,7 @@ company's needs;
 * **Polish** (basic knowledge - decent for reading and listening comprehension)
 ### Other skills and qualities:
 * **MS Office** (*advanced*)
-* **Python** (*beginner*)
-*     [example of code (raw draft) on GitHub](https://github.com/maxlex28/examplePyth)
+* **Python** (*beginner*) [example of code (raw draft) on GitHub](https://github.com/maxlex28/examplePyth)
 * **JavaScript** (*beginner*)
 * [**IFRS**](https://en.wikipedia.org/wiki/International_Financial_Reporting_Standards) (*basic*)
 * Communication, organisational and time management skills
