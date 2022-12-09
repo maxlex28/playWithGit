@@ -4,12 +4,14 @@
 ### Minsk, Belarus
 ### E-mail: maxlex@ymail.com
 ### Phone: +375291181717
+### GitHub: https://github.com/maxlex28
+### Discord: alherd#9670
 ***
 ## **OBJECTIVE**
 Solid experience in management of technical assistance for filmmaking. Great interest
 in business analysis.
 I am seeking for a challenging job in management of the sphere of technical assistance
-for film- and video production and related areas. Being a beginner in Python 3.0
+for film- and video production and related areas. Being a beginner in Python
 programming with high ambitions to promote in this field (with application of knowledge
 and skills in the field of data analysis), I see any improvement being possible only with
 taking high bars set by yourself. I have significant experience in management of
@@ -60,13 +62,14 @@ company's needs;
 ***
 ## **QUALIFICATIONS**
 ### Languages
-* **English** (IELTS C1 level. Advanced level)
+* **English** (IELTS C1 level: advanced)
 * **Russian** and **Belarusian** (native speaker)
 * **Ukrainian** (basic knowledge - decent for reading and listening comprehension)
 * **Polish** (basic knowledge - decent for reading and listening comprehension)
 ### Other skills and qualities:
 * **MS Office** (*advanced*)
 * **Python** (*beginner*)
+*     [example of code (raw draft) on GitHub](https://github.com/maxlex28/examplePyth)
 * **JavaScript** (*beginner*)
 * [**IFRS**](https://en.wikipedia.org/wiki/International_Financial_Reporting_Standards) (*basic*)
 * Communication, organisational and time management skills
